@@ -1,1 +1,1 @@
-# paralel-robot-inv-kin
+# Stewart platform inverse kinematics modeling

@@ -1,0 +1,1 @@
+# paralel-robot-inv-kin
